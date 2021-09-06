@@ -1,6 +1,6 @@
 # Skill India Python for ML/AI ETG - Internship
-# Json-Based-Inventory-Management-System-
-Inventory Management System : Containing a Grocery Product Database
+# Json-Based-Inventory-Management-System-(using non relational database)
+Inventory Management System : Containing a Grocery Product Database 
 
 ## Grocery Database
 Initially it contains 35 grocery product information. 
